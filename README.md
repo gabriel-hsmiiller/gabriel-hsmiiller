@@ -12,13 +12,13 @@
 
   ### What am I into?
 <div>
-  <img align="center" alt="Angular" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" />
-  <img align="center" alt="Typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Sass" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-plain.svg" />
-  <img align="center" alt="NodeJS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" alt="NestJS" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" />
-  <img align="center" alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" />
-  <img align="center" alt="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" />
+  <img align="center" height="40" alt="Angular" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" />
+  <img align="center" height="40" alt="Typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" height="40" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" height="40" alt="Sass" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-plain.svg" />
+  <img align="center" height="40" alt="NodeJS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" height="40" alt="NestJS" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" />
+  <img align="center" height="40" alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" />
+  <img align="center" height="40" alt="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" />
 </div>
 
