@@ -52,15 +52,15 @@
 
 <div>
   <a href="https://github.com/gabriel-hsmiiller/AwsChallengeFront">
-    <img width="280em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=AwsChallengeFront&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
+    <img width="430em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=AwsChallengeFront&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
   </a>
   
   <a href="https://github.com/gabriel-hsmiiller/AwsChallengeBackend">
-    <img width="280em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=AwsChallengeBackend&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
+    <img width="430em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=AwsChallengeBackend&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
   </a>
   
   <a href="https://github.com/gabriel-hsmiiller/ResumeOnline">
-    <img width="280em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=ResumeOnline&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
+    <img width="430em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=ResumeOnline&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
   </a>
 </div>
 
