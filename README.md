@@ -1,3 +1,3 @@
 ### Henlo! I'm Gabriel Miiller 🐦
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-hsmiiller&show_icons=true&theme=nightowl)](https://github.com/gabriel-hsmiiller/)
+[![GITHUB STATS: Gabriel Miiller](https://github-readme-stats.vercel.app/api?username=gabriel-hsmiiller&show_icons=true&theme=nightowl&locale=pt&custom_title=GITHUB%20STATS%3A%20Gabriel Miiller)](https://github.com/gabriel-hsmiiller/)
