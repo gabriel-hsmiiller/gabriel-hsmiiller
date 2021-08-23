@@ -2,11 +2,11 @@
 
 <div>
   <a href="https://github.com/gabriel-hsmiiller/">
-    <img width="470em" src="https://github-readme-stats.vercel.app/api?username=gabriel-hsmiiller&show_icons=true&theme=nightowl&custom_title=GITHUB%20STATS%3A%20Gabriel%20Miiller&bg_color=35,1a1a1a,2f2f2f" />
+    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=gabriel-hsmiiller&show_icons=true&theme=nightowl&custom_title=GITHUB%20STATS%3A%20Gabriel%20Miiller&bg_color=35,1a1a1a,2f2f2f" />
   </a>
   
   <a href="https://github.com/gabriel-hsmiiller/">
-    <img width="465em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-hsmiiller&layout=compact&langs_count=4&theme=nightowl&custom_title=My%20best%20langs&bg_color=125,1a1a1a,2f2f2f" />
+    <img width="445em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-hsmiiller&layout=compact&langs_count=4&theme=nightowl&custom_title=My%20best%20langs&bg_color=125,1a1a1a,2f2f2f" />
   </a>
 </div>
 
@@ -52,15 +52,15 @@
 
 <div>
   <a href="https://github.com/gabriel-hsmiiller/AwsChallengeFront">
-    <img width="310em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=AwsChallengeFront&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
+    <img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=AwsChallengeFront&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
   </a>
   
   <a href="https://github.com/gabriel-hsmiiller/AwsChallengeBackend">
-    <img width="310em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=AwsChallengeBackend&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
+    <img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=AwsChallengeBackend&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
   </a>
   
   <a href="https://github.com/gabriel-hsmiiller/ResumeOnline">
-    <img width="310em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=ResumeOnline&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
+    <img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=ResumeOnline&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
   </a>
 </div>
 
