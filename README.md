@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+  
 ### Henlo! I'm Gabriel Miiller 🐦
 
 <div>
@@ -10,7 +12,9 @@
   </a>
 </div>
 
-<!-- [![GITHUB STATS: Gabriel Miiller]()]() -->
+<div>
+  ## What am I into?
 
-<!-- [![My best langs]()](https://github.com/gabriel-hsmiiller/) -->
+  <i class="devicon-angularjs-plain colored"></i>
+</div>
 
