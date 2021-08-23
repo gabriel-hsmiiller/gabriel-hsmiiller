@@ -2,23 +2,51 @@
 
 <div>
   <a href="https://github.com/gabriel-hsmiiller/">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriel-hsmiiller&show_icons=true&theme=nightowl&custom_title=GITHUB%20STATS%3A%20Gabriel%20Miiller" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriel-hsmiiller&show_icons=true&theme=nightowl&custom_title=GITHUB%20STATS%3A%20Gabriel%20Miiller&bg_color=35,1a1a1a,2f2f2f" />
   </a>
   
   <a href="https://github.com/gabriel-hsmiiller/">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-hsmiiller&layout=compact&langs_count=4&theme=nightowl&custom_title=My%20best%20langs" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-hsmiiller&layout=compact&langs_count=4&theme=nightowl&custom_title=My%20best%20langs&bg_color=125,1a1a1a,2f2f2f" />
   </a>
 </div>
 
   ### What am I into?
 <div>
-  <img align="center" height="40" alt="Angular" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" />
-  <img align="center" height="40" alt="Typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" height="40" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" height="40" alt="Sass" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-plain.svg" />
-  <img align="center" height="40" alt="NodeJS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" height="40" alt="NestJS" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" />
-  <img align="center" height="40" alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" />
-  <img align="center" height="40" alt="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" />
+  <img align="center" height="40" width="50" alt="Angular" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" />
+  <img align="center" height="40" width="50" alt="Typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" height="40" width="50" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" height="40" width="50" alt="Sass" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
+  <img align="center" height="40" width="50" alt="NodeJS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" height="40" width="50" alt="NestJS" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" />
+  <img align="center" height="40" width="50" alt="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+  <img align="center" height="40" width="50" alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+</div>
+
+  ### Social medias
+<div>
+  <a href="" target="_blank">
+    <img align="center" alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="mailto:gbmiiller@hotmail.com" target="_blank">
+    <img align="center" alt="Email: gbmiiller@hotmail.com" src="https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail" />
+  </a>
+  
+  <a href="https://www.figma.com/files/user/804133248186476251?fuid=804133248186476251" target="_blank">
+    <img align="center" alt="Figma" src="https://img.shields.io/badge/-Figma-1a1a1a?style=for-the-badge&logo=figma" />
+  </a>
+  
+</div>
+
+  ### Some Repos
+
+<div>
+  <a href="https://github.com/gabriel-hsmiiller/AwsChallengeFront">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=AwsChallengeFront&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
+  </a>
+  
+  <a href="https://github.com/gabriel-hsmiiller/AwsChallengeBackend">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=AwsChallengeBackend&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
+  </a>
 </div>
 
