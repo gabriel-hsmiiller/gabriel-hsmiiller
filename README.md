@@ -18,15 +18,20 @@
   <img align="center" height="40" width="50" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
   <img align="center" height="40" width="50" alt="Sass" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
   <img align="center" height="40" width="50" alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-  
-  #### This is what I'm studying:
   <img align="center" height="40" width="50" alt="NodeJS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
   <img align="center" height="40" width="50" alt="NestJS" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" />
+  <img align="center" height="40" width="50" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" />
+  
+  #### This is what I'm studying:
   <img align="center" height="40" width="50" alt="Flutter" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" />
+  <img align="center" height="40" width="50" alt="Amazon Web Services" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center" height="40" width="50" alt="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />
   
   #### This is what I use:
   <img align="center" height="40" width="50" alt="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
   <img align="center" height="40" width="50" alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+  <img align="center" height="40" width="50" alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
+  <img align="center" height="40" width="50" alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />
   
   ### And this is what I love:
   ❤❤<img align="center" height="100" width="100" alt="Angular" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" />❤❤
@@ -59,8 +64,12 @@
     <img width="420em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=AwsChallengeBackend&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
   </a>
   
-  <a href="https://github.com/gabriel-hsmiiller/ResumeOnline">
-    <img width="420em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=ResumeOnline&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
+  <a href="https://github.com/gabriel-hsmiiller/TodoApp">
+    <img width="420em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=TodoApp&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
+  </a>
+  
+  <a href="https://github.com/gabriel-hsmiiller/portfolio">
+    <img width="420em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-hsmiiller&repo=portfolio&show_icons=true&theme=nightowl&bg_color=35,1a1a1a,2f2f2f" />
   </a>
 </div>
 
