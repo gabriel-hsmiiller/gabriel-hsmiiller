@@ -19,8 +19,8 @@
   <img align="center" height="40" width="50" alt="Sass" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
   <img align="center" height="40" width="50" alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
   <img align="center" height="40" width="50" alt="NodeJS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" height="40" width="50" alt="NestJS" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" />
-  <img align="center" height="40" width="50" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" />
+  <img align="center" height="40" width="50" alt="NestJS" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" />
+  <img align="center" height="40" width="50" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
   
   #### This is what I'm studying:
   <img align="center" height="40" width="50" alt="Flutter" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" />
@@ -31,7 +31,7 @@
   <img align="center" height="40" width="50" alt="VSCode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
   <img align="center" height="40" width="50" alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
   <img align="center" height="40" width="50" alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-  <img align="center" height="40" width="50" alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />
+  <img align="center" height="40" width="50" alt="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" />
   
   ### And this is what I love:
   ❤❤<img align="center" height="100" width="100" alt="Angular" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" />❤❤
